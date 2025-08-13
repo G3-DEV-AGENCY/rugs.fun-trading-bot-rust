@@ -6,7 +6,7 @@ A Solana-based automated trading bot for **Rugs.fun** — detects new game round
 
 ## 📬 Contact
 
-Feel free to reach out for collaborations, feature requests, or questions: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+Feel free to reach out for collaborations, feature requests, or questions: [Telegram](https://t.me/cryptocooker0510) | [Twitter](https://x.com/CryptoCookerDev)
 
 ---
 
@@ -95,5 +95,5 @@ Watch logs for transaction signatures and status updates.
 
 ### 🙏 Credits
 
-Developed by [0xTan1319](https://github.com/0xTan1319)  
+Developed by [0xTan1319](https://github.com/crypto-cooker)  
 Inspired by the degen Solana meme casino at [Rugs.fun](https://rugs.fun)
