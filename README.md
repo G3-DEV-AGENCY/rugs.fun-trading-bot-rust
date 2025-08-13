@@ -95,5 +95,5 @@ Watch logs for transaction signatures and status updates.
 
 ### 🙏 Credits
 
-Developed by [0xTan1319](https://github.com/crypto-cooker)  
+Developed by [CryptoCooker](https://github.com/crypto-cooker)  
 Inspired by the degen Solana meme casino at [Rugs.fun](https://rugs.fun)
